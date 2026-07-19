@@ -123,5 +123,6 @@ PRODIGY_DS_TASK03/
 ## 👩‍💻 Author
 
 **Boyapati Sathwika**
+Github Name : https://github.com/boyapatisathwika359
 
 Data Science Intern – Prodigy InfoTech
